@@ -113,3 +113,13 @@ print(dict1)
 #update the element
 dict1['name']='Pradeep Rout'
 print(dict1)
+
+thisdict['owner']="pkr"
+print(thisdict)
+
+#deleing an element
+del thisdict['owner']
+print(thisdict)
+
+#del thisdict 
+#this is used to remove entire dictionary
