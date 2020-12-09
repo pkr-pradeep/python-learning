@@ -123,3 +123,8 @@ print(thisdict)
 
 #del thisdict 
 #this is used to remove entire dictionary
+
+#rather than deleting entire dictionary
+#we can clear all its elements and make it empty
+thisdict.clear()
+print(thisdict)
